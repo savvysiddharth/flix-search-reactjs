@@ -1,3 +1,11 @@
+## Screenshots :
+
+![flixs1](https://user-images.githubusercontent.com/12862695/58469321-e0342980-815c-11e9-8ddd-82fab77516ee.png)
+
+![flixs2](https://user-images.githubusercontent.com/12862695/58469326-e1fded00-815c-11e9-8f4c-1c7c3438cc7e.png)
+
+![flixs3](https://user-images.githubusercontent.com/12862695/58469327-e32f1a00-815c-11e9-9fb8-ac424d697028.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
