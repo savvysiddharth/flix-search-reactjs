@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flix-search-reactjs/static/css/main.2b999b0c.chunk.css",
+    "main.js": "/flix-search-reactjs/static/js/main.bb8454a9.chunk.js",
+    "main.js.map": "/flix-search-reactjs/static/js/main.bb8454a9.chunk.js.map",
+    "runtime~main.js": "/flix-search-reactjs/static/js/runtime~main.5b212955.js",
+    "runtime~main.js.map": "/flix-search-reactjs/static/js/runtime~main.5b212955.js.map",
+    "static/js/2.ddd9a8c0.chunk.js": "/flix-search-reactjs/static/js/2.ddd9a8c0.chunk.js",
+    "static/js/2.ddd9a8c0.chunk.js.map": "/flix-search-reactjs/static/js/2.ddd9a8c0.chunk.js.map",
+    "index.html": "/flix-search-reactjs/index.html",
+    "precache-manifest.13fe1d9e3df827943f156ba7719af64f.js": "/flix-search-reactjs/precache-manifest.13fe1d9e3df827943f156ba7719af64f.js",
+    "service-worker.js": "/flix-search-reactjs/service-worker.js",
+    "static/css/main.2b999b0c.chunk.css.map": "/flix-search-reactjs/static/css/main.2b999b0c.chunk.css.map",
+    "static/media/loading.svg": "/flix-search-reactjs/static/media/loading.afdb8fab.svg",
+    "static/media/logo.svg": "/flix-search-reactjs/static/media/logo.7dbe1adc.svg"
+  }
+}
