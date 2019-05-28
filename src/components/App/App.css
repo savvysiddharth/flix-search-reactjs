@@ -3,15 +3,18 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 30s linear;
-  height: 80px;
+  animation: App-logo-spin infinite 5s linear;
+  height: 60px;
 }
 
 .App-header {
-  background-color: #000000;
-  height: 150px;
+  background-color: #0c0c0c;
+  height: 100px;
   padding: 20px;
   color: white;
+  margin-bottom: 50px;
+  border-radius: 0 0 50px 50px;
+  box-shadow: 5px 10px 40px black;
 }
 
 .App-title {
@@ -29,4 +32,9 @@
   100% {
     transform: rotate(360deg);
   }
+}
+
+
+body {
+  overflow-y: scroll;
 }

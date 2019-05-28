@@ -1,0 +1,33 @@
+.series-list {
+  list-style: none;
+  padding: 0;
+}
+
+.result-item {
+  margin: 10px auto 10px auto;
+  border: 2px solid rgb(65, 65, 65);
+  border-radius: 20px;
+  padding: 5px;
+  width: 50%;
+}
+
+.result-item-brief {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(87, 87, 87);
+}
+
+.result-item-title {
+  text-decoration: bold;
+}
+
+.item-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(38, 57, 168);
+}
+
+.item-link:hover {
+  text-decoration: underline;
+}
